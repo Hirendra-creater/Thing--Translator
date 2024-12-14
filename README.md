@@ -2,6 +2,8 @@
 📷 🗣 Point your camera at things to hear how to say them in a different language
 https://github.com/Hirendra-creater/Thing-Translator.git
 
+https://github.com/hirendra-creater/thing-translator?tab=readme-ov-file#an-ai-experiment
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
